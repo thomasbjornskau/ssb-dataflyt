@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60.0" y="92.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Mal: prosessteg og roller</text>
+<text x="60.0" y="136.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Dagens løp på nivå 1: hva skjer, hvem gjør det, på hvilken plattform, og hva henger sammen</text>
+<line x1="60.0" y1="160.0" x2="1860.0" y2="160.0" stroke="#cdd3d4" stroke-width="2" stroke-linecap="round"/>
+<rect x="1736.0" y="58.0" width="124.0" height="36.0" rx="18" fill="#274246" stroke="none" stroke-width="0"/>
+<text x="1798.0" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Dataflyt 3.0</text>
+<rect x="1594.0" y="58.0" width="132.0" height="36.0" rx="18" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1660.0" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#274246" text-anchor="middle">Mal · nivå 1</text>
+<text x="1860.0" y="1062.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">08.10.2026 · Utkast 1 · Bygger på mal B5 · Eksempelraden er hentet fra Dataflyt 2.0 for NR IKR</text>
+<text x="60.0" y="203.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Gjelder</text>
+<rect x="60.0" y="220.0" width="18.0" height="18.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="86.0" y="235.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Én statistikk</text>
+<rect x="200.0" y="220.0" width="18.0" height="18.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="226.0" y="235.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Gruppe</text>
+<text x="310.0" y="203.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Statistikk eller gruppe</text>
+<rect x="310.0" y="210.0" width="400.0" height="38.0" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<text x="730.0" y="203.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Kontaktperson</text>
+<rect x="730.0" y="210.0" width="300.0" height="38.0" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<text x="1050.0" y="203.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Dato</text>
+<rect x="1050.0" y="210.0" width="160.0" height="38.0" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<text x="1230.0" y="203.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Versjon</text>
+<rect x="1230.0" y="210.0" width="170.0" height="38.0" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="60.0" y="272.0" width="1340.0" height="48.0" rx="6" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="70.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">#</text>
+<text x="104.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">Prosessteg</text>
+<text x="274.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">Fase</text>
+<text x="390.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">Hva skjer</text>
+<text x="610.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">Hvem</text>
+<text x="740.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">Plattform og systemer</text>
+<text x="926.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">Data inn → ut</text>
+<text x="1116.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">Avhengigheter</text>
+<text x="1276.0" y="302.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="start">Alle / Noen</text>
+<rect x="60.0" y="320.0" width="1340.0" height="74.0" rx="0" fill="#f3f5f5" stroke="#9fb1b2" stroke-width="1.2"/>
+<line x1="94.0" y1="320.0" x2="94.0" y2="394.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="264.0" y1="320.0" x2="264.0" y2="394.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="380.0" y1="320.0" x2="380.0" y2="394.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="600.0" y1="320.0" x2="600.0" y2="394.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="730.0" y1="320.0" x2="730.0" y2="394.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="916.0" y1="320.0" x2="916.0" y2="394.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1106.0" y1="320.0" x2="1106.0" y2="394.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1266.0" y1="320.0" x2="1266.0" y2="394.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="350.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#5e787a" text-anchor="middle">E</text>
+<rect x="274.0" y="336.0" width="20.0" height="20.0" rx="3" fill="#eef7f0" stroke="#3d7a55" stroke-width="1.5"/>
+<text x="284.0" y="372.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#3d7a55" text-anchor="middle">S</text>
+<rect x="300.0" y="336.0" width="20.0" height="20.0" rx="3" fill="#eaf4f8" stroke="#2f6f86" stroke-width="1.5"/>
+<text x="310.0" y="372.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f6f86" text-anchor="middle">K</text>
+<rect x="326.0" y="336.0" width="20.0" height="20.0" rx="3" fill="#5a4aa8" stroke="#5a4aa8" stroke-width="1.5"/>
+<text x="336.0" y="372.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5a4aa8" text-anchor="middle">A</text>
+<rect x="352.0" y="336.0" width="20.0" height="20.0" rx="3" fill="#fcf8e6" stroke="#7a6410" stroke-width="1.5"/>
+<text x="362.0" y="372.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#7a6410" text-anchor="middle">F</text>
+<rect x="1278.0" y="340.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1300.0" y="353.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Alle</text>
+<rect x="1338.0" y="340.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1360.0" y="353.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Noen</text>
+<rect x="60.0" y="394.0" width="1340.0" height="74.0" rx="0" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.2"/>
+<line x1="94.0" y1="394.0" x2="94.0" y2="468.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="264.0" y1="394.0" x2="264.0" y2="468.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="380.0" y1="394.0" x2="380.0" y2="468.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="600.0" y1="394.0" x2="600.0" y2="468.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="730.0" y1="394.0" x2="730.0" y2="468.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="916.0" y1="394.0" x2="916.0" y2="468.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1106.0" y1="394.0" x2="1106.0" y2="468.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1266.0" y1="394.0" x2="1266.0" y2="468.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="424.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="middle">1</text>
+<rect x="274.0" y="410.0" width="20.0" height="20.0" rx="3" fill="#eef7f0" stroke="#3d7a55" stroke-width="1.5"/>
+<text x="284.0" y="446.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#3d7a55" text-anchor="middle">S</text>
+<rect x="300.0" y="410.0" width="20.0" height="20.0" rx="3" fill="#eaf4f8" stroke="#2f6f86" stroke-width="1.5"/>
+<text x="310.0" y="446.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f6f86" text-anchor="middle">K</text>
+<rect x="326.0" y="410.0" width="20.0" height="20.0" rx="3" fill="#f4f2fc" stroke="#5a4aa8" stroke-width="1.5"/>
+<text x="336.0" y="446.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5a4aa8" text-anchor="middle">A</text>
+<rect x="352.0" y="410.0" width="20.0" height="20.0" rx="3" fill="#fcf8e6" stroke="#7a6410" stroke-width="1.5"/>
+<text x="362.0" y="446.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#7a6410" text-anchor="middle">F</text>
+<rect x="1278.0" y="414.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1300.0" y="427.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Alle</text>
+<rect x="1338.0" y="414.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1360.0" y="427.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Noen</text>
+<rect x="60.0" y="468.0" width="1340.0" height="74.0" rx="0" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.2"/>
+<line x1="94.0" y1="468.0" x2="94.0" y2="542.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="264.0" y1="468.0" x2="264.0" y2="542.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="380.0" y1="468.0" x2="380.0" y2="542.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="600.0" y1="468.0" x2="600.0" y2="542.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="730.0" y1="468.0" x2="730.0" y2="542.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="916.0" y1="468.0" x2="916.0" y2="542.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1106.0" y1="468.0" x2="1106.0" y2="542.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1266.0" y1="468.0" x2="1266.0" y2="542.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="498.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="middle">2</text>
+<rect x="274.0" y="484.0" width="20.0" height="20.0" rx="3" fill="#eef7f0" stroke="#3d7a55" stroke-width="1.5"/>
+<text x="284.0" y="520.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#3d7a55" text-anchor="middle">S</text>
+<rect x="300.0" y="484.0" width="20.0" height="20.0" rx="3" fill="#eaf4f8" stroke="#2f6f86" stroke-width="1.5"/>
+<text x="310.0" y="520.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f6f86" text-anchor="middle">K</text>
+<rect x="326.0" y="484.0" width="20.0" height="20.0" rx="3" fill="#f4f2fc" stroke="#5a4aa8" stroke-width="1.5"/>
+<text x="336.0" y="520.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5a4aa8" text-anchor="middle">A</text>
+<rect x="352.0" y="484.0" width="20.0" height="20.0" rx="3" fill="#fcf8e6" stroke="#7a6410" stroke-width="1.5"/>
+<text x="362.0" y="520.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#7a6410" text-anchor="middle">F</text>
+<rect x="1278.0" y="488.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1300.0" y="501.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Alle</text>
+<rect x="1338.0" y="488.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1360.0" y="501.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Noen</text>
+<rect x="60.0" y="542.0" width="1340.0" height="74.0" rx="0" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.2"/>
+<line x1="94.0" y1="542.0" x2="94.0" y2="616.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="264.0" y1="542.0" x2="264.0" y2="616.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="380.0" y1="542.0" x2="380.0" y2="616.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="600.0" y1="542.0" x2="600.0" y2="616.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="730.0" y1="542.0" x2="730.0" y2="616.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="916.0" y1="542.0" x2="916.0" y2="616.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1106.0" y1="542.0" x2="1106.0" y2="616.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1266.0" y1="542.0" x2="1266.0" y2="616.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="572.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="middle">3</text>
+<rect x="274.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#eef7f0" stroke="#3d7a55" stroke-width="1.5"/>
+<text x="284.0" y="594.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#3d7a55" text-anchor="middle">S</text>
+<rect x="300.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#eaf4f8" stroke="#2f6f86" stroke-width="1.5"/>
+<text x="310.0" y="594.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f6f86" text-anchor="middle">K</text>
+<rect x="326.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#f4f2fc" stroke="#5a4aa8" stroke-width="1.5"/>
+<text x="336.0" y="594.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5a4aa8" text-anchor="middle">A</text>
+<rect x="352.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#fcf8e6" stroke="#7a6410" stroke-width="1.5"/>
+<text x="362.0" y="594.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#7a6410" text-anchor="middle">F</text>
+<rect x="1278.0" y="562.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1300.0" y="575.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Alle</text>
+<rect x="1338.0" y="562.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1360.0" y="575.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Noen</text>
+<rect x="60.0" y="616.0" width="1340.0" height="74.0" rx="0" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.2"/>
+<line x1="94.0" y1="616.0" x2="94.0" y2="690.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="264.0" y1="616.0" x2="264.0" y2="690.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="380.0" y1="616.0" x2="380.0" y2="690.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="600.0" y1="616.0" x2="600.0" y2="690.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="730.0" y1="616.0" x2="730.0" y2="690.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="916.0" y1="616.0" x2="916.0" y2="690.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1106.0" y1="616.0" x2="1106.0" y2="690.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1266.0" y1="616.0" x2="1266.0" y2="690.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="646.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="middle">4</text>
+<rect x="274.0" y="632.0" width="20.0" height="20.0" rx="3" fill="#eef7f0" stroke="#3d7a55" stroke-width="1.5"/>
+<text x="284.0" y="668.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#3d7a55" text-anchor="middle">S</text>
+<rect x="300.0" y="632.0" width="20.0" height="20.0" rx="3" fill="#eaf4f8" stroke="#2f6f86" stroke-width="1.5"/>
+<text x="310.0" y="668.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f6f86" text-anchor="middle">K</text>
+<rect x="326.0" y="632.0" width="20.0" height="20.0" rx="3" fill="#f4f2fc" stroke="#5a4aa8" stroke-width="1.5"/>
+<text x="336.0" y="668.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5a4aa8" text-anchor="middle">A</text>
+<rect x="352.0" y="632.0" width="20.0" height="20.0" rx="3" fill="#fcf8e6" stroke="#7a6410" stroke-width="1.5"/>
+<text x="362.0" y="668.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#7a6410" text-anchor="middle">F</text>
+<rect x="1278.0" y="636.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1300.0" y="649.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Alle</text>
+<rect x="1338.0" y="636.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1360.0" y="649.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Noen</text>
+<rect x="60.0" y="690.0" width="1340.0" height="74.0" rx="0" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.2"/>
+<line x1="94.0" y1="690.0" x2="94.0" y2="764.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="264.0" y1="690.0" x2="264.0" y2="764.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="380.0" y1="690.0" x2="380.0" y2="764.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="600.0" y1="690.0" x2="600.0" y2="764.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="730.0" y1="690.0" x2="730.0" y2="764.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="916.0" y1="690.0" x2="916.0" y2="764.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1106.0" y1="690.0" x2="1106.0" y2="764.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1266.0" y1="690.0" x2="1266.0" y2="764.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="720.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="middle">5</text>
+<rect x="274.0" y="706.0" width="20.0" height="20.0" rx="3" fill="#eef7f0" stroke="#3d7a55" stroke-width="1.5"/>
+<text x="284.0" y="742.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#3d7a55" text-anchor="middle">S</text>
+<rect x="300.0" y="706.0" width="20.0" height="20.0" rx="3" fill="#eaf4f8" stroke="#2f6f86" stroke-width="1.5"/>
+<text x="310.0" y="742.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f6f86" text-anchor="middle">K</text>
+<rect x="326.0" y="706.0" width="20.0" height="20.0" rx="3" fill="#f4f2fc" stroke="#5a4aa8" stroke-width="1.5"/>
+<text x="336.0" y="742.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5a4aa8" text-anchor="middle">A</text>
+<rect x="352.0" y="706.0" width="20.0" height="20.0" rx="3" fill="#fcf8e6" stroke="#7a6410" stroke-width="1.5"/>
+<text x="362.0" y="742.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#7a6410" text-anchor="middle">F</text>
+<rect x="1278.0" y="710.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1300.0" y="723.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Alle</text>
+<rect x="1338.0" y="710.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1360.0" y="723.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Noen</text>
+<rect x="60.0" y="764.0" width="1340.0" height="74.0" rx="0" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.2"/>
+<line x1="94.0" y1="764.0" x2="94.0" y2="838.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="264.0" y1="764.0" x2="264.0" y2="838.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="380.0" y1="764.0" x2="380.0" y2="838.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="600.0" y1="764.0" x2="600.0" y2="838.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="730.0" y1="764.0" x2="730.0" y2="838.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="916.0" y1="764.0" x2="916.0" y2="838.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1106.0" y1="764.0" x2="1106.0" y2="838.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1266.0" y1="764.0" x2="1266.0" y2="838.0" stroke="#cdd3d4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="794.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="middle">6</text>
+<rect x="274.0" y="780.0" width="20.0" height="20.0" rx="3" fill="#eef7f0" stroke="#3d7a55" stroke-width="1.5"/>
+<text x="284.0" y="816.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#3d7a55" text-anchor="middle">S</text>
+<rect x="300.0" y="780.0" width="20.0" height="20.0" rx="3" fill="#eaf4f8" stroke="#2f6f86" stroke-width="1.5"/>
+<text x="310.0" y="816.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#2f6f86" text-anchor="middle">K</text>
+<rect x="326.0" y="780.0" width="20.0" height="20.0" rx="3" fill="#f4f2fc" stroke="#5a4aa8" stroke-width="1.5"/>
+<text x="336.0" y="816.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5a4aa8" text-anchor="middle">A</text>
+<rect x="352.0" y="780.0" width="20.0" height="20.0" rx="3" fill="#fcf8e6" stroke="#7a6410" stroke-width="1.5"/>
+<text x="362.0" y="816.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#7a6410" text-anchor="middle">F</text>
+<rect x="1278.0" y="784.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1300.0" y="797.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Alle</text>
+<rect x="1338.0" y="784.0" width="16.0" height="16.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1360.0" y="797.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#1e3a3f" text-anchor="start">Noen</text>
+<text x="104.0" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">Summering og</text>
+<text x="104.0" y="366.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">avstemming</text>
+<text x="390.0" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">Summerer alle kilder</text>
+<text x="390.0" y="366.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">og avstemmer</text>
+<text x="610.0" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">?</text>
+<text x="740.0" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">SAS: SAS SUM,</text>
+<text x="740.0" y="366.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">SAS AVSTEM</text>
+<text x="926.0" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">FIN, IKKE-FIN m.fl.</text>
+<text x="926.0" y="366.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">→ INPUT EXCEL</text>
+<text x="1116.0" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">Inn: RG (kilde ?)</text>
+<text x="1116.0" y="366.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start" font-style="italic">Ut: til editering</text>
+<text x="1278.0" y="382.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#5e787a" text-anchor="start" font-style="italic">Én statistikk</text>
+<text x="60.0" y="883.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start" letter-spacing="1">PLATTFORMER</text>
+<rect x="186.0" y="864.0" width="63.0" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="217.5" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">FAME</text>
+<rect x="257.0" y="864.0" width="51.3" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="282.6" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">SAS</text>
+<rect x="316.3" y="864.0" width="94.2" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="363.4" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">Oracle ODI</text>
+<rect x="418.5" y="864.0" width="116.3" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="476.6" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">Oracle Forms</text>
+<rect x="542.8" y="864.0" width="55.2" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="570.4" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">ISEE</text>
+<rect x="606.0" y="864.0" width="79.9" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="646.0" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">Dynarev</text>
+<rect x="693.9" y="864.0" width="191.7" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="789.8" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">KOSTRA-innrapportering</text>
+<rect x="893.6" y="864.0" width="130.6" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="958.9" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">Statistikkbanken</text>
+<rect x="1032.2" y="864.0" width="60.4" height="28.0" rx="14.0" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="1062.4" y="882.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1e3a3f" text-anchor="middle">Excel</text>
+<rect x="1100.6" y="864.0" width="80.0" height="28.0" rx="14" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5" stroke-dasharray="5 3"/>
+<rect x="1188.6" y="864.0" width="80.0" height="28.0" rx="14" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="60.0" y="926.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start" letter-spacing="1">ROLLER</text>
+<rect x="186.0" y="908.0" width="122.8" height="28.0" rx="14.0" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="247.4" y="926.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#4b2fb0" text-anchor="middle">Saksbehandler</text>
+<rect x="316.8" y="908.0" width="146.2" height="28.0" rx="14.0" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="389.9" y="926.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#4b2fb0" text-anchor="middle">Statistikkansvarlig</text>
+<rect x="471.0" y="908.0" width="70.8" height="28.0" rx="14.0" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="506.4" y="926.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#4b2fb0" text-anchor="middle">Metode</text>
+<rect x="549.8" y="908.0" width="103.3" height="28.0" rx="14.0" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="601.4" y="926.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#4b2fb0" text-anchor="middle">IT / utvikler</text>
+<rect x="661.1" y="908.0" width="95.5" height="28.0" rx="14.0" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="708.8" y="926.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#4b2fb0" text-anchor="middle">Formidling</text>
+<rect x="764.6" y="908.0" width="154.0" height="28.0" rx="14.0" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="841.6" y="926.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#4b2fb0" text-anchor="middle">Ekstern leverandør</text>
+<text x="932.6" y="927.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="start" font-style="italic">Forslag. Skriv inn egne roller ved behov.</text>
+<rect x="1440.0" y="180.0" width="420.0" height="806.0" rx="10" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1464.0" y="222.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Slik brukes malen</text>
+<circle cx="1478.0" cy="260.0" r="15.0" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1506.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Del løpet i steg</text>
+<text x="1506.0" y="291.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Ofte 5–10 steg. Ett steg endrer</text>
+<text x="1506.0" y="315.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">dataene og kan beskrives med én</text>
+<text x="1506.0" y="339.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">setning.</text>
+<circle cx="1478.0" cy="379.0" r="15.0" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="385.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1506.0" y="385.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Skriv rolle, ikke navn</text>
+<text x="1506.0" y="410.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Hvem gjør steget i dag? Bruk</text>
+<text x="1506.0" y="434.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">rollebrikkene eller skriv inn egne.</text>
+<circle cx="1478.0" cy="474.0" r="15.0" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="480.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1506.0" y="480.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Plattform først</text>
+<text x="1506.0" y="505.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Plattformen styrer fristen.</text>
+<text x="1506.0" y="529.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Programnavn kommer på nivå 2.</text>
+<circle cx="1478.0" cy="569.0" r="15.0" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="575.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1506.0" y="575.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Avhengigheter begge veier</text>
+<text x="1506.0" y="600.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Hva henter steget fra andre, og</text>
+<text x="1506.0" y="624.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">hvem bruker det som kommer ut?</text>
+<rect x="1464.0" y="858.0" width="372.0" height="104.0" rx="8" fill="#274246" stroke="none" stroke-width="0"/>
+<text x="1482.0" y="888.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b6e9b8" text-anchor="start">REGEL</text>
+<text x="1482.0" y="914.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">«?» er et gyldig svar. Det som</text>
+<text x="1482.0" y="938.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">ikke er vurdert, skal ikke gjettes.</text>
+<rect x="60.0" y="1036.0" width="28.0" height="20.0" rx="0" fill="#f3f5f5" stroke="#9fb1b2" stroke-width="1.2"/>
+<text x="96.0" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Eksempelrad (E)</text>
+<rect x="241.5" y="1036.0" width="28.0" height="20.0" rx="0" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.2"/>
+<text x="277.5" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Felt som fylles ut</text>
+<rect x="422.8" y="1036.0" width="20.0" height="20.0" rx="3" fill="#5a4aa8" stroke="#5a4aa8" stroke-width="1.5"/>
+<text x="454.8" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Fase: S K A F</text>
+</svg>

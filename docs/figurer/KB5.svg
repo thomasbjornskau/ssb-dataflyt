@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Mal: dagens produksjonsløp</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Gjennomgang av dagens løsning: hvem gjør hva, med hvilke systemer, fra innsamling til formidling</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1765.59" y="58" width="94.4062" height="36" rx="18" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1812.8" y="82" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#274246" text-anchor="middle">B5 · Mal</text>
+<rect x="1538.67" y="58" width="216.922" height="36" rx="18" fill="#274246"/>
+<text x="1647.13" y="82" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Komplekse statistikker</text>
+<text x="1860" y="1062" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">08.10.2026 · Utkast 1 · Kilde: Prosjektgruppens presentasjoner om kartlegging av komplekse statistikker</text>
+<text x="60" y="203" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Gjelder</text>
+<rect x="60" y="220" width="18" height="18" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="86" y="235" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Én statistikk</text>
+<rect x="200" y="220" width="18" height="18" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="226" y="235" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Gruppe</text>
+<text x="310" y="203" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Statistikk eller gruppe</text>
+<rect x="310" y="210" width="450" height="38" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<text x="780" y="203" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Dato</text>
+<rect x="780" y="210" width="300" height="38" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<text x="1100" y="203" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">Deltakere</text>
+<rect x="1100" y="210" width="300" height="38" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<line x1="60" y1="268" x2="1400" y2="268" stroke="#cdd3d4" stroke-width="1.5"/>
+<rect x="250" y="290" width="281.5" height="40" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<text x="390.75" y="316" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">Samle inn</text>
+<rect x="539.5" y="290" width="281.5" height="40" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<text x="680.25" y="316" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">Klargjøre</text>
+<rect x="829" y="290" width="281.5" height="40" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<text x="969.75" y="316" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">Analysere</text>
+<rect x="1118.5" y="290" width="281.5" height="40" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<text x="1259.25" y="316" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">Formidle</text>
+<rect x="60" y="340" width="170" height="104" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<text x="76" y="370" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">Hvem gjør hva</text>
+<text x="76" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Brukere og roller</text>
+<rect x="250" y="340" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="539.5" y="340" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="829" y="340" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="1118.5" y="340" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<circle cx="60" cy="340" r="15" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="60" y="346" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<rect x="60" y="452" width="170" height="104" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<text x="76" y="482" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">Prosessteg</text>
+<text x="76" y="506" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Hva skjer, i</text>
+<text x="76" y="525" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">rekkefølge</text>
+<rect x="250" y="452" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="539.5" y="452" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="829" y="452" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="1118.5" y="452" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="60" y="564" width="170" height="104" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<text x="76" y="594" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">Systemer</text>
+<text x="76" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Bakke, verktøy, filer</text>
+<rect x="250" y="564" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="539.5" y="564" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="829" y="564" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="1118.5" y="564" width="281.5" height="104" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<circle cx="60" cy="564" r="15" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="60" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<rect x="60" y="676" width="170" height="92" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<text x="76" y="706" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">Data inn og ut</text>
+<text x="76" y="730" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Kilder, mellomlagre,</text>
+<text x="76" y="749" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">uttak</text>
+<rect x="250" y="676" width="281.5" height="92" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="539.5" y="676" width="281.5" height="92" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="829" y="676" width="281.5" height="92" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="1118.5" y="676" width="281.5" height="92" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="60" y="776" width="170" height="92" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<text x="76" y="806" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">Avhengigheter</text>
+<text x="76" y="830" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Inn fra og ut til andre</text>
+<rect x="250" y="776" width="281.5" height="92" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="539.5" y="776" width="281.5" height="92" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="829" y="776" width="281.5" height="92" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<rect x="1118.5" y="776" width="281.5" height="92" rx="4" fill="#ffffff" stroke="#9fb1b2" stroke-width="1.5"/>
+<circle cx="60" cy="776" r="15" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="60" y="782" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="60" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#5e787a" text-anchor="start">BRIKKER</text>
+<rect x="140" y="888" width="61.4268" height="30" rx="15" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="170.713" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e3a3f" text-anchor="middle">FAME</text>
+<rect x="209.427" y="888" width="48.6504" height="30" rx="15" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="233.752" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e3a3f" text-anchor="middle">SAS</text>
+<rect x="266.077" y="888" width="97.2949" height="30" rx="15" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="314.725" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e3a3f" text-anchor="middle">Oracle ODI</text>
+<rect x="371.372" y="888" width="113.961" height="30" rx="15" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="428.353" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e3a3f" text-anchor="middle">Oracle Forms</text>
+<rect x="493.333" y="888" width="51.5967" height="30" rx="15" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="519.131" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e3a3f" text-anchor="middle">ISEE</text>
+<rect x="552.93" y="888" width="80.3555" height="30" rx="15" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="593.107" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e3a3f" text-anchor="middle">Dynarev</text>
+<rect x="641.285" y="888" width="190.339" height="30" rx="15" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="736.455" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e3a3f" text-anchor="middle">KOSTRA-innrapportering</text>
+<rect x="839.624" y="888" width="137.798" height="30" rx="15" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="908.523" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e3a3f" text-anchor="middle">Statistikkbanken</text>
+<rect x="985.422" y="888" width="92" height="30" rx="15" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5" stroke-dasharray="5 3"/>
+<rect x="1085.42" y="888" width="92" height="30" rx="15" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5" stroke-dasharray="5 3"/>
+<circle cx="72" cy="946" r="15" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="72" y="952" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="90" y="952" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">For en gruppe: skriv initialene til statistikkene på brikken når den gjelder bare noen.</text>
+<rect x="1440" y="180" width="420" height="806" rx="10" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1464" y="222" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Slik brukes malen</text>
+<circle cx="1478" cy="260" r="15" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478" y="266" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1506" y="266" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Bruker og system</text>
+<text x="1506" y="291" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Følg produksjonen fra innsamling til</text>
+<text x="1506" y="315" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">formidling. Skriv hvem som gjør hva.</text>
+<circle cx="1478" cy="353" r="15" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478" y="359" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1506" y="359" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Legg brikkene</text>
+<text x="1506" y="384" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Plasser hvert bakkesystem der det</text>
+<text x="1506" y="408" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">brukes. Samme system kan ligge i flere</text>
+<text x="1506" y="432" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">faser.</text>
+<circle cx="1478" cy="470" r="15" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478" y="476" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1506" y="476" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Avhengigheter</text>
+<text x="1506" y="501" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Noter hva løpet henter fra andre, og hva</text>
+<text x="1506" y="525" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">andre henter herfra.</text>
+<circle cx="1478" cy="563" r="15" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478" y="569" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1506" y="569" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Gruppe</text>
+<text x="1506" y="594" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Tegn ett felles løp og merk det som bare</text>
+<text x="1506" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">gjelder noen.</text>
+<rect x="1464" y="834" width="372" height="128" rx="8" fill="#274246"/>
+<text x="1482" y="864" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b6e9b8" text-anchor="start">RÅD</text>
+<text x="1482" y="890" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">Malen er lettest å fylle ut for én</text>
+<text x="1482" y="914" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">statistikk. For en gruppe gir den et grovt</text>
+<text x="1482" y="938" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">bilde.</text>
+<rect x="60" y="1031" width="28" height="20" rx="4" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="98" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Rad</text>
+<rect x="154.77" y="1031" width="28" height="20" rx="4" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="192.77" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Fase</text>
+<rect x="254.418" y="1031" width="28" height="20" rx="4" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="292.418" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Systembrikke</text>
+<rect x="416.241" y="1031" width="28" height="20" rx="4" fill="#ffffff" stroke="#5e787a" stroke-width="1.5"/>
+<text x="454.241" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Felt som fylles ut</text>
+</svg>

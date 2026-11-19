@@ -1,0 +1,276 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60.0" y="92.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Vi starter ikke fra null</text>
+<text x="60.0" y="136.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Dataflyt har vært utviklet i to runder. Den tredje bygger på begge og på malene B5 og B6.</text>
+<line x1="60.0" y1="160.0" x2="1860.0" y2="160.0" stroke="#cdd3d4" stroke-width="2" stroke-linecap="round"/>
+<rect x="1736.0" y="58.0" width="124.0" height="36.0" rx="18" fill="#274246" stroke="none" stroke-width="0"/>
+<text x="1798.0" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Dataflyt 3.0</text>
+<rect x="1621.2" y="58.0" width="104.8" height="36.0" rx="18" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1673.6" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#274246" text-anchor="middle">Oversikt</text>
+<text x="1860.0" y="1062.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">08.10.2026 · Utkast 1 · Kilde: Presentasjonene «Dataflyt i statistikkproduksjonen» og «Dataflyt» (2.0)</text>
+<rect x="60.0" y="196.0" width="425.0" height="790.0" rx="12" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="84.0" y="256.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#1e3a3f" text-anchor="start">1.0</text>
+<text x="170.0" y="238.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Tegnet for hånd</text>
+<text x="170.0" y="262.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Adobe Illustrator</text>
+<line x1="84.0" y1="860.0" x2="461.0" y2="860.0" stroke="#cdd3d4" stroke-width="1.5" stroke-linecap="round"/>
+<text x="84.0" y="890.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start" letter-spacing="1">OMFANG</text>
+<text x="84.0" y="940.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1e3a3f" text-anchor="start">En håndfull</text>
+<text x="277.0" y="940.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#5e787a" text-anchor="start">tegninger</text>
+<rect x="80.0" y="290.0" width="385.0" height="250.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.2"/>
+<rect x="88.0" y="300.0" width="103.3" height="230.0" rx="4" fill="#eef7f0" stroke="none" stroke-width="0"/>
+<rect x="176.6" y="300.0" width="110.7" height="230.0" rx="4" fill="#eaf4f8" stroke="none" stroke-width="0"/>
+<rect x="272.5" y="300.0" width="103.3" height="230.0" rx="4" fill="#f4f2fc" stroke="none" stroke-width="0"/>
+<rect x="364.8" y="300.0" width="92.2" height="230.0" rx="4" fill="#fcf8e6" stroke="none" stroke-width="0"/>
+<polyline points="100.0,440.0 160.0,410.0 230.0,450.0 300.0,400.0 380.0,430.0 445.0,390.0" fill="none" stroke="#b9c5c6" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="100.0,440.0 160.0,410.0 230.0,450.0 300.0,400.0 380.0,430.0 445.0,390.0" fill="none" stroke="#6f8a8c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="152.0" y="398.0" width="16.0" height="24.0" rx="5" fill="#3f6266" stroke="#274246" stroke-width="1.8"/>
+<rect x="222.0" y="438.0" width="16.0" height="24.0" rx="5" fill="#a9bdbe" stroke="#5e787a" stroke-width="1.8"/>
+<rect x="292.0" y="388.0" width="16.0" height="24.0" rx="5" fill="#3f6266" stroke="#274246" stroke-width="1.8"/>
+<rect x="372.0" y="418.0" width="16.0" height="24.0" rx="5" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<text x="230.0" y="490.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1e3a3f" text-anchor="middle">MIKROEDITERING</text>
+<text x="340.0" y="370.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1e3a3f" text-anchor="middle">MAKROEDITERING</text>
+<rect x="100.0" y="314.0" width="84.6" height="20.0" rx="10.0" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="142.3" y="328.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#4b2fb0" text-anchor="middle">Innrapportør</text>
+<rect x="88.0" y="510.0" width="369.0" height="20.0" rx="3" fill="#274246" stroke="none" stroke-width="0"/>
+<text x="98.0" y="524.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#ffffff" text-anchor="start">Tidsbruk og tidsforløp per fase</text>
+<text x="84.0" y="580.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#00824d" text-anchor="start" letter-spacing="1">DET GA</text>
+<text x="84.0" y="606.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Rikt bilde: prosessnavn, roller,</text>
+<text x="84.0" y="629.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">tidsbruk og iterasjoner</text>
+<text x="84.0" y="652.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Symbolene for data og system</text>
+<text x="84.0" y="675.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">ble utviklet</text>
+<text x="84.0" y="716.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b8643a" text-anchor="start" letter-spacing="1">ULEMPER</text>
+<text x="84.0" y="742.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Tok mer enn 2–3 dager per tegning</text>
+<text x="84.0" y="765.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Tungt å endre og holde oppdatert</text>
+<rect x="517.0" y="196.0" width="425.0" height="790.0" rx="12" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="541.0" y="256.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#1e3a3f" text-anchor="start">2.0</text>
+<text x="627.0" y="238.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Tegnet fra metadata</text>
+<text x="627.0" y="262.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Excel og Tableau</text>
+<line x1="541.0" y1="860.0" x2="918.0" y2="860.0" stroke="#cdd3d4" stroke-width="1.5" stroke-linecap="round"/>
+<text x="541.0" y="890.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start" letter-spacing="1">OMFANG</text>
+<text x="541.0" y="940.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1e3a3f" text-anchor="start">≈ 120</text>
+<text x="638.8" y="940.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#5e787a" text-anchor="start">flyter</text>
+<rect x="537.0" y="290.0" width="385.0" height="250.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.2"/>
+<line x1="555.0" y1="326.2" x2="576.8" y2="326.2" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="326.2" x2="642.2" y2="390.8" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="342.3" x2="576.8" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="358.5" x2="576.8" y2="358.5" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="358.5" x2="642.2" y2="390.8" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="374.6" x2="576.8" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="390.8" x2="576.8" y2="390.8" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="406.9" x2="576.8" y2="406.9" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="423.1" x2="576.8" y2="423.1" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="439.2" x2="576.8" y2="439.2" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="455.4" x2="576.8" y2="455.4" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="471.5" x2="576.8" y2="471.5" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="471.5" x2="642.2" y2="390.8" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="487.7" x2="576.8" y2="487.7" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="503.8" x2="576.8" y2="503.8" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="555.0" y1="520.0" x2="576.8" y2="520.0" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="310.0" x2="642.2" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="326.2" x2="598.6" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="326.2" x2="598.6" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="342.3" x2="598.6" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="342.3" x2="598.6" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="358.5" x2="598.6" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="358.5" x2="598.6" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="374.6" x2="598.6" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="374.6" x2="598.6" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="390.8" x2="598.6" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="390.8" x2="598.6" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="406.9" x2="598.6" y2="406.9" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="423.1" x2="598.6" y2="423.1" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="439.2" x2="598.6" y2="439.2" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="455.4" x2="598.6" y2="455.4" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="471.5" x2="598.6" y2="471.5" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="487.7" x2="598.6" y2="487.7" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="503.8" x2="598.6" y2="503.8" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="576.8" y1="520.0" x2="598.6" y2="520.0" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="310.0" x2="642.2" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="342.3" x2="642.2" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="374.6" x2="620.4" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="406.9" x2="729.5" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="423.1" x2="642.2" y2="423.1" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="439.2" x2="729.5" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="455.4" x2="685.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="471.5" x2="685.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="487.7" x2="620.4" y2="487.7" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="503.8" x2="642.2" y2="423.1" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="598.6" y1="520.0" x2="620.4" y2="520.0" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="620.4" y1="310.0" x2="642.2" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="620.4" y1="374.6" x2="642.2" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="620.4" y1="390.8" x2="642.2" y2="390.8" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="620.4" y1="487.7" x2="642.2" y2="487.7" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="620.4" y1="520.0" x2="642.2" y2="520.0" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="642.2" y1="326.2" x2="642.2" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="642.2" y1="342.3" x2="664.1" y2="342.3" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="642.2" y1="374.6" x2="685.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="642.2" y1="390.8" x2="664.1" y2="390.8" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="642.2" y1="423.1" x2="664.1" y2="423.1" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="642.2" y1="487.7" x2="685.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="642.2" y1="520.0" x2="685.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="664.1" y1="358.5" x2="685.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="664.1" y1="390.8" x2="685.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="664.1" y1="423.1" x2="685.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="685.9" y1="374.6" x2="707.7" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="707.7" y1="374.6" x2="729.5" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="729.5" y1="374.6" x2="751.3" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="751.3" y1="374.6" x2="773.1" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="773.1" y1="374.6" x2="794.9" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="794.9" y1="374.6" x2="816.8" y2="358.5" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="794.9" y1="374.6" x2="816.8" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="816.8" y1="358.5" x2="838.6" y2="358.5" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="816.8" y1="374.6" x2="838.6" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="838.6" y1="358.5" x2="860.4" y2="358.5" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="838.6" y1="374.6" x2="860.4" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="860.4" y1="358.5" x2="882.2" y2="358.5" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="860.4" y1="374.6" x2="882.2" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="882.2" y1="358.5" x2="904.0" y2="358.5" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<line x1="882.2" y1="374.6" x2="904.0" y2="374.6" stroke="#6f8a8c" stroke-width="0.9" stroke-linecap="round"/>
+<circle cx="555.0" cy="326.2" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="342.3" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="358.5" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="374.6" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="390.8" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="406.9" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="423.1" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="439.2" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="455.4" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="471.5" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="487.7" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="503.8" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="555.0" cy="520.0" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="576.8" cy="310.0" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="573.3" y="321.2" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="337.3" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="353.5" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="369.6" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="385.8" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="401.9" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="418.1" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="434.2" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="450.4" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="466.5" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="482.7" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="498.8" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="573.3" y="515.0" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="598.6" cy="310.0" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="342.3" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="374.6" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="406.9" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="423.1" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="439.2" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="455.4" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="471.5" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="487.7" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="503.8" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="598.6" cy="520.0" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="620.4" cy="310.0" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="616.9" y="369.6" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="620.4" cy="390.8" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="616.9" y="482.7" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="616.9" y="515.0" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="642.2" cy="326.2" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="638.8" y="337.3" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="642.2" cy="374.6" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="638.8" y="385.8" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="638.8" y="418.1" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="642.2" cy="487.7" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="642.2" cy="520.0" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="664.1" cy="342.3" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="664.1" cy="358.5" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="664.1" cy="390.8" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="664.1" cy="423.1" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="682.4" y="369.6" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="707.7" cy="374.6" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="726.0" y="369.6" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="751.3" cy="374.6" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="769.6" y="369.6" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="794.9" cy="374.6" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="813.2" y="353.5" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<rect x="813.2" y="369.6" width="7.0" height="10.0" rx="1.5" fill="#3f6266" stroke="#274246" stroke-width="1"/>
+<circle cx="838.6" cy="358.5" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="838.6" cy="374.6" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="856.9" y="353.5" width="7.0" height="10.0" rx="1.5" fill="#a9bdbe" stroke="#274246" stroke-width="1"/>
+<rect x="856.9" y="369.6" width="7.0" height="10.0" rx="1.5" fill="#a9bdbe" stroke="#274246" stroke-width="1"/>
+<circle cx="882.2" cy="358.5" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<circle cx="882.2" cy="374.6" r="4.5" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="900.5" y="353.5" width="7.0" height="10.0" rx="1.5" fill="#ffffff" stroke="#274246" stroke-width="1"/>
+<rect x="900.5" y="369.6" width="7.0" height="10.0" rx="1.5" fill="#ffffff" stroke="#274246" stroke-width="1"/>
+<text x="912.0" y="530.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#5e787a" text-anchor="end">NR IKR fra Excel</text>
+<text x="541.0" y="580.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#00824d" text-anchor="start" letter-spacing="1">DET GA</text>
+<text x="541.0" y="606.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Fra 2–3 dager til 15 minutter</text>
+<text x="541.0" y="629.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Rundt 120 flyter er tegnet</text>
+<text x="541.0" y="652.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">AS IS kan kopieres til TO BE</text>
+<text x="541.0" y="675.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Deles på web, PDF og PPT</text>
+<text x="541.0" y="716.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b8643a" text-anchor="start" letter-spacing="1">DET MANGLET</text>
+<text x="541.0" y="742.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Roller, prosessteg og avhengigheter</text>
+<text x="541.0" y="765.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Koordinater plasseres for hånd</text>
+<text x="541.0" y="788.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Alt går gjennom én person</text>
+<text x="541.0" y="811.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Uklart hvor mye tegningene brukes</text>
+<rect x="974.0" y="196.0" width="425.0" height="790.0" rx="12" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="998.0" y="256.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#4b2fb0" text-anchor="start">3.0</text>
+<text x="1084.0" y="238.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#4b2fb0" text-anchor="start">Med KI-støtte</text>
+<text x="1084.0" y="262.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Skillen ssb-dataflyt og malene</text>
+<line x1="998.0" y1="860.0" x2="1375.0" y2="860.0" stroke="#c3baff" stroke-width="1.5" stroke-linecap="round"/>
+<text x="998.0" y="890.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start" letter-spacing="1">OMFANG</text>
+<text x="998.0" y="940.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#4b2fb0" text-anchor="start">Komplekse</text>
+<text x="1191.0" y="940.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#5e787a" text-anchor="start">statistikker først</text>
+<rect x="1287.0" y="212.0" width="78.8" height="24.0" rx="12.0" fill="#ffffff" stroke="#7d5fea" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="1326.4" y="228.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#4b2fb0" text-anchor="middle">FORSLAG</text>
+<rect x="994.0" y="290.0" width="385.0" height="250.0" rx="8" fill="#fbfaff" stroke="#cdd3d4" stroke-width="1.2"/>
+<rect x="1014.0" y="308.0" width="345.0" height="64.0" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.6"/>
+<text x="1026.0" y="332.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1e3a3f" text-anchor="start">Nivå 1 · Oversikt</text>
+<rect x="1028.0" y="344.0" width="40.0" height="18.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="1078.0" y="344.0" width="40.0" height="18.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="1128.0" y="344.0" width="40.0" height="18.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="1178.0" y="344.0" width="40.0" height="18.0" rx="3" fill="#ffffff" stroke="#274246" stroke-width="1.2"/>
+<rect x="1054.0" y="378.0" width="265.0" height="64.0" rx="6" fill="#ffffff" stroke="#7d5fea" stroke-width="1.6"/>
+<text x="1066.0" y="402.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1e3a3f" text-anchor="start">Nivå 2 · Fokus</text>
+<rect x="1072.0" y="416.0" width="12.0" height="16.0" rx="5" fill="#3f6266" stroke="#274246" stroke-width="1.8"/>
+<rect x="1106.0" y="416.0" width="12.0" height="16.0" rx="5" fill="#3f6266" stroke="#274246" stroke-width="1.8"/>
+<rect x="1140.0" y="416.0" width="12.0" height="16.0" rx="5" fill="#3f6266" stroke="#274246" stroke-width="1.8"/>
+<rect x="1094.0" y="448.0" width="185.0" height="64.0" rx="6" fill="#ffffff" stroke="#7d5fea" stroke-width="1.6" stroke-dasharray="4 3"/>
+<text x="1106.0" y="472.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1e3a3f" text-anchor="start">Nivå 3 · Detalj</text>
+<rect x="1112.0" y="486.0" width="12.0" height="16.0" rx="5" fill="#3f6266" stroke="#274246" stroke-width="1.8"/>
+<rect x="1146.0" y="486.0" width="12.0" height="16.0" rx="5" fill="#3f6266" stroke="#274246" stroke-width="1.8"/>
+<text x="998.0" y="580.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#00824d" text-anchor="start" letter-spacing="1">DET SKAL GI</text>
+<text x="998.0" y="606.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Kontaktpersonene fyller ut malene</text>
+<text x="998.0" y="629.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Tre nivåer: oversikt, fokus, detalj</text>
+<text x="998.0" y="652.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Viser behov og verdi, ikke bare</text>
+<text x="998.0" y="675.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">dagens løp</text>
+<text x="998.0" y="716.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#4b2fb0" text-anchor="start" letter-spacing="1">FORUTSETTER</text>
+<text x="998.0" y="742.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Fagansvarlige må bekrefte alt</text>
+<text x="998.0" y="765.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Skillen må bygges og prøves</text>
+<circle cx="501.0" cy="590.0" r="14.0" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<line x1="495.0" y1="590.0" x2="500.0" y2="590.0" stroke="#274246" stroke-width="2" stroke-linecap="round"/>
+<polygon points="508.0,590.0 500.0,585.6 500.0,594.4" fill="#274246" stroke="#274246" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="958.0" cy="590.0" r="14.0" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<line x1="952.0" y1="590.0" x2="957.0" y2="590.0" stroke="#274246" stroke-width="2" stroke-linecap="round"/>
+<polygon points="965.0,590.0 957.0,585.6 957.0,594.4" fill="#274246" stroke="#274246" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1440.0" y="180.0" width="420.0" height="806.0" rx="10" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1464.0" y="222.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Utgangspunktet</text>
+<circle cx="1478.0" cy="260.0" r="15.0" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1506.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Metoden finnes</text>
+<text x="1506.0" y="291.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Symbolene for data og system er</text>
+<text x="1506.0" y="315.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">prøvd ut i to runder.</text>
+<circle cx="1478.0" cy="355.0" r="15.0" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="361.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1506.0" y="361.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Mye er kartlagt</text>
+<text x="1506.0" y="386.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Rundt 120 flyter fra 2.0 kan bli</text>
+<text x="1506.0" y="410.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">utkast i 3.0.</text>
+<circle cx="1478.0" cy="450.0" r="15.0" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="456.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1506.0" y="456.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Hullene er kjent</text>
+<text x="1506.0" y="481.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Roller, prosessteg og avhengigheter.</text>
+<text x="1506.0" y="505.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">B5 og B6 spør etter nettopp dette.</text>
+<circle cx="1478.0" cy="545.0" r="15.0" fill="#274246" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="551.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1506.0" y="551.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">3.0 tar det beste fra begge</text>
+<text x="1506.0" y="576.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Det rike bildet fra 1.0 og</text>
+<text x="1506.0" y="600.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">automatikken fra 2.0.</text>
+<rect x="1464.0" y="858.0" width="372.0" height="104.0" rx="8" fill="#274246" stroke="none" stroke-width="0"/>
+<text x="1482.0" y="888.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b6e9b8" text-anchor="start">GJENBRUK</text>
+<text x="1482.0" y="914.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">Eksisterende 2.0-flyter kan leses inn</text>
+<text x="1482.0" y="938.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">direkte, slik A2 viser.</text>
+</svg>
