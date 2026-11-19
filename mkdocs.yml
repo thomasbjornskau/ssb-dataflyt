@@ -1,0 +1,85 @@
+site_name: Dataflyt i SSB
+site_description: Dataflyt 3.0 – veiledning, symbolspråk, maler og verktøy for å kartlegge og tegne dataflyten i statistikkproduksjonen i Statistisk sentralbyrå.
+site_author: Thomas Bjørnskau
+site_url: https://thomasbjornskau.github.io/ssb-dataflyt/
+repo_name: ssb-dataflyt
+repo_url: https://github.com/thomasbjornskau/ssb-dataflyt
+copyright: Utkast · Statistisk sentralbyrå · Dataflyt i statistikkproduksjonen
+
+# Sidene ligger som .html-filer. Da virker de relative lenkene til figurene også i rå HTML.
+use_directory_urls: false
+
+theme:
+  name: material
+  language: nb
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Mørk visning
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Lys visning
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - search.highlight
+    - content.tooltips
+
+extra_css:
+  - assets/ssb.css
+extra_javascript:
+  - assets/ark.js
+
+markdown_extensions:
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - toc:
+      permalink: true
+      toc_depth: 2
+
+plugins:
+  - search:
+      lang: ["no"]
+
+nav:
+  - Forside: index.md
+  - Veiledningen:
+      - 1 Hva er Dataflyt?: 1-hva-er-dataflyt.md
+      - 2 Symbolspråket: 2-symbolspraket.md
+      - 3 Tegningene: 3-tegningene.md
+      - 4 Datamodellen: 4-datamodellen.md
+      - 5 Slik kartlegger du: 5-slik-kartlegger-du.md
+      - 6 Eksempel NR IKR: 6-eksempel-nr-ikr.md
+      - 7 Verktøy og nedlasting: 7-verktoy.md
+  - Malene:
+      - maler/index.md
+      - D1 Prosessteg og roller: maler/d1.md
+      - D2 Data og systemer: maler/d2.md
+      - D3 Behov og verdi: maler/d3.md
+  - Oppslag:
+      - Grafiske elementer: grafiske-elementer.md
+      - Alle figurene: figurer.md
+      - Ordliste: ordliste.md
+
+# Skillene vises som egne sider (lenket fra kapittel 7), men står ikke i menyen.
+not_in_nav: |
+  /filer/skills/*/SKILL.md
